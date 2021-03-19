@@ -11,6 +11,7 @@
   * [Monthly Notices of the Royal Astronomical Society (MNRAS)](#monthly-notices-of-the-royal-astronomical-society)
   * [Astronomy & Astrophyscs (A&A)](#astronomy-and-astrophysics)
 - [Physics](#physics)
+  * [JCAP/JHEP](#jcapjhep)
   * [REVTeX](#revtex)
   * [IOP publishing](#iop-publishing)
 
@@ -44,12 +45,20 @@ https://ctan.org/tex-archive/macros/latex/contrib/mnras
 
 # Physics
 
+## JCAP/JHEP
+
+A LaTeX2e package which emulates the JCAP and JHEP styles are made available for preparing preprints to be submitted to the journals.
+Manuals, bibliography style (bst) and example tex files are also provided.
+
+* https://jcap.sissa.it/jcap/help/JCAP_TeXclass.jsp
+* https://jhep.sissa.it/jhep/help/JHEP_TeXclass.jsp
+
 ## REVTeX
 
 REVTeX is a collection of LaTeX macros, with auxiliary files and a user support guide, which is maintained and distributed by the American Physical Society as part of a “REVTeX toolbox”. REVTeX is used to submit papers to journals published by the American Physical Society (APS), the American Institute of Physics (AIP), and the Optical Society of America (OSA), and is accepted by a few other technical publishers as well. 
 
-https://journals.aps.org/revtex
-https://ctan.org/tex-archive/macros/latex/contrib/revtex
+* https://journals.aps.org/revtex
+* https://ctan.org/tex-archive/macros/latex/contrib/revtex
 
 
 ## IOP publishing
