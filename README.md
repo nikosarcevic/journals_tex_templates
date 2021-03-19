@@ -1,4 +1,4 @@
-# Journals tex templates
+# Journals TeX/LaTeX templates
 
 **This is a community effort to collect all journal TeX/LaTeX templates in one place. Everyone welcome to contribute!** :shipit:
 
