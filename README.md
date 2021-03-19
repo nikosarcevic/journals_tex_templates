@@ -10,12 +10,17 @@
 - [Astronomy](#astronomy)
   * [Monthly Notices of the Royal Astronomical Society (MNRAS)](#monthly-notices-of-the-royal-astronomical-society)
   * [Astronomy & Astrophyscs (A&A)](#astronomy-and-astrophysics)
+- [Physics](#physics)
+  * [REVTeX](#revtex)
+  * [IOP publishing](#iop-publishing)
 
 
 ***
 # Astronomy
 
 ## Monthly Notices of the Royal Astronomical Society
+
+*(copied [from this page](https://academic.oup.com/mnras/pages/General_Instructions#2.1%20LaTeX))*
 
 For authors preparing their manuscripts using LaTeX, MNRAS has its own LaTeX class files which simulate the appearance of the journal page. Authors are encouraged to use these, although papers prepared using other class files can also be accepted.
 
@@ -27,7 +32,7 @@ https://ctan.org/tex-archive/macros/latex/contrib/mnras
 
 ## Astronomy and Astrophysics
 
- (copied from [this page](https://www.aanda.org/for-authors/latex-issues/texnical-background-information))
+*(copied from [this page](https://www.aanda.org/for-authors/latex-issues/texnical-background-information))*
  
  As the articles for A&A will be available in different formats - one of these is full-text-searchable hyper-text - we strongly suggest you strictly obey the LaTeX conventions.
 
