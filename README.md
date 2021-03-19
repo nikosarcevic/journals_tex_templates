@@ -14,7 +14,8 @@
   * [JCAP/JHEP](#jcapjhep)
   * [REVTeX](#revtex)
   * [IOP publishing](#iop-publishing)
-
+- [Miscellaneous](#miscellaneous)
+  * [ORCiD command](#orcid-command)
 
 ***
 # Astronomy
@@ -66,3 +67,13 @@ REVTeX is a collection of LaTeX macros, with auxiliary files and a user support 
 A LaTeX2e class file together with full documentation that is distributed by the Institute of Physics (IOP) publishing to help authors prepare articles for consideration by IOP journals. A full list of journals can be found through the link below.
 
 https://publishingsupport.iopscience.iop.org/questions/latex-template/
+
+
+# Miscellaneous
+
+List of useful tricks found around the web.
+
+## ORCiD command
+
+Thanks to Leo C. Stein for this! 
+https://github.com/duetosymmetry/orcidlink-LaTeX-command
