@@ -2,7 +2,7 @@
 
 **This is a community effort to collect all journal TeX/LaTeX templates in one place. Everyone welcome to contribute!** :shipit:
 
-*All descriptions copied from the respective pages.*
+*DISCLAIMER: All descriptions copied from the respective pages. Claiming NO ownership, this is just a repository of what is publicly available.*
 
 ***
 
