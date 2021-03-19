@@ -30,7 +30,7 @@ The journal class files and documentation are available at the Comprehensive TeX
 
 https://ctan.org/tex-archive/macros/latex/contrib/mnras
 
-## Astronomy and Astrophysics
+## Astronomy & Astrophysics
 
 *(copied from [this page](https://www.aanda.org/for-authors/latex-issues/texnical-background-information))*
  
