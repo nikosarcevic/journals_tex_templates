@@ -1,6 +1,6 @@
 # Journals tex templates
 
-**This is a community effort to collect all journal LaTeX templates in one place. Everyone welcome to contribute!** :shipit:
+**This is a community effort to collect all journal TeX/LaTeX templates in one place. Everyone welcome to contribute!** :shipit:
 
 *All descriptions copied from the respective pages.*
 
